@@ -1,5 +1,6 @@
 #! /usr/bin/env node
 
+// To use this calculator in terminal / CMD simply type this command: npx w3k-simple-calculator
 
 import inquirer from "inquirer";
 
